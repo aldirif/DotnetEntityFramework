@@ -63,7 +63,7 @@ public class EmployeeController : Controller
         _context.EmployeeEntities.Remove(entity);
         // commit to database
         _context.SaveChanges();
-        return Redirect("/Customer/GetAll");
+        return Redirect("/Employee/GetAll");
     }
 
     [HttpPost]
