@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-ef-core", "dotnet-ef-core\dotnet-ef-core.csproj", "{3788C0CB-D3E1-4A1B-845C-01DFD7ED8DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3788C0CB-D3E1-4A1B-845C-01DFD7ED8DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3788C0CB-D3E1-4A1B-845C-01DFD7ED8DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3788C0CB-D3E1-4A1B-845C-01DFD7ED8DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3788C0CB-D3E1-4A1B-845C-01DFD7ED8DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5271D42-13E5-4E03-B71F-497597BAC714}
+	EndGlobalSection
+EndGlobal
